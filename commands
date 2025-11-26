@@ -14,5 +14,6 @@ push
 
 
 project.md
-1.same steps till push
-2.git checkout -b feature-branch
+1.creat folder on dekstop and create file in folder as project.md
+2.same steps till push
+3.git checkout -b feature-branch
