@@ -1,0 +1,13 @@
+folder create kela dekstop la
+folder madhe file save keli .py ni
+folder madhe right click krun git bash open kel
+git init - (git madhe enter karnyasathi)
+git status - (file status kay aahe te sangt/ani kontya files aahet aaplya te dakhavt)
+git add sample.py - (file add karnya sathi git madhe)
+git commit -m "Added files" - (file ready krun thevnya sathi mhanje push ny keaychi pn ready krun thevle)
+
+push
+1.$ git remote add origin https://github.com/pd303877/Practical.git
+2.git branch -M main - (branch madhe jato)
+3. git push -u origin main -(push karnyasathi)
+4.git log - (history)
