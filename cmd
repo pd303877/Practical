@@ -43,3 +43,13 @@ git merge feature
 git log
 mgg gitlab madhe merge request vr click kraych ani mg tithe je yetay te fill kraych 
 ani mgg merge vr click kraych
+
+gitbucket
+folder creat kraych dekstop vr
+file create kraychi folder madhe .txt ni
+ani mg gitbuket madhe repo crate kraychi
+ani mg commands dyaychya 
+bitbucket la jaun merged karaych
+source branch la jaun pull req la jaych
+--> feature   -->  main 
+title deun create pull req karaych
