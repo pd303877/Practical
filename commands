@@ -11,3 +11,8 @@ push
 2.git branch -M main - (branch madhe jato)
 3. git push -u origin main -(push karnyasathi)
 4.git log - (history)
+
+
+project.md
+1.same steps till push
+2.git checkout -b feature-branch
